@@ -1,3 +1,2 @@
 #!/bin/bash
 ln -s /bin/ls ./__ls__
-chmod 777 ./__ls__
